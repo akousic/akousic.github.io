@@ -1830,6 +1830,6 @@
         "tag" : "Azure - DNS Zone",
         "stroke" : "#d86613",
         "color" : "#d86613",
-        "icon" : "https://akousic.github.io/theme_aws_azure.json"
+        "icon" : "https://akousic.github.io/azure-dns.png"
     } ]
   }
